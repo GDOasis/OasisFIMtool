@@ -5,6 +5,9 @@ Set Up:
 
 ## Usage
 
+pip install -r requirements.txt
+
+
 1. Clone the repository:
 
    ```bash
